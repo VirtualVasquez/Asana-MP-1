@@ -1017,6 +1017,7 @@ private static $installed = array (
       ),
       'reference' => '6.1.3',
     ),
+
     'drupal/workflows' => 
     array (
       'replaced' => 
