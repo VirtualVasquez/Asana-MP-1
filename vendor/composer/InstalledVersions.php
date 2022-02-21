@@ -1008,6 +1008,16 @@ private static $installed = array (
         0 => '9.3.6',
       ),
     ),
+    'drupal/webform' => 
+    array (
+      'pretty_version' => '6.1.3',
+      'version' => '6.1.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6.1.3',
+    ),
+
     'drupal/workflows' => 
     array (
       'replaced' => 

@@ -1,0 +1,14 @@
+uuid: b73d779e-5438-4322-95b5-a02b9b61ad4d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - mvasquez@elevatedthird.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

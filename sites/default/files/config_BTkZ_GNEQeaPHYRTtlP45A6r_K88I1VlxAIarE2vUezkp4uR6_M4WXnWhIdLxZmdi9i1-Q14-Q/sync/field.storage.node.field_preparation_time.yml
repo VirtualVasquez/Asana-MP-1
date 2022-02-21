@@ -1,0 +1,22 @@
+uuid: 1797f178-bbdf-4c85-a8f8-50bfb2f390c5
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: L4M_MmPr8qrKNnPYxf_1w6y--YsIH2IISGB0T4KUzDU
+id: node.field_preparation_time
+field_name: field_preparation_time
+entity_type: node
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
